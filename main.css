@@ -1,0 +1,12 @@
+.name{
+   text-align: center;
+   font-size: 100px;
+   text-decoration: underline wavy red 5px;
+   text-transform: uppercase;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   min-height: 100vh;
+   
+}
